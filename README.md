@@ -1,1 +1,1 @@
-0x00-Shell Permissions
+Display lines containing the pattern
